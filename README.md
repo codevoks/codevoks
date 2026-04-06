@@ -4,7 +4,6 @@
 
 _Building full-stack & Web3 apps, AI/LLM tooling, and real-time systems._
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER_HANDLE)
 
