@@ -4,7 +4,7 @@
 
 _Building full-stack & Web3 apps, AI/LLM tooling, and real-time systems._
 
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/codevoks)
+[![X (Twitter)](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/codevoks)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshksingh/)
 
 </div>
@@ -26,18 +26,21 @@ I'm a developer working on monorepos and production-style web apps — **Next.js
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=flat&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![AI & LLMs](https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
 <div align="center">
 
-**Open to** collaborations / freelance / roles — reach out on LinkedIn or X.
+**Open to** collaborations / freelance / roles — reach out on
+
+[![X (Twitter)](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/codevoks)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshksingh/)
 
 </div>
