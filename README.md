@@ -13,7 +13,7 @@ _Full-stack & Web3 engineer: production systems, real-time backends, and applied
 
 ### About
 
-I'm a developer working on monorepos and production-style web apps with **React**, **Next.js**, **Turborepo**, **TypeScript**, **Prisma**, **PostgreSQL**, **MongoDB**, **Redis**, WebSockets, and auth-heavy dashboards. I build on **Web3** (**Ethereum** & **Solana**). I'm interested in **applied LLMs** — how they connect to real backends, data, and release constraints — as engineering work, not improvised prompt chains. I default to reproducible infra (**AWS**, Docker, **Kubernetes**, CI) and clear boundaries across shared packages.
+I'm a developer working on monorepos and production-style web apps with **React**, **Next.js**, **Turborepo**, **TypeScript**, **Prisma**, **PostgreSQL**, **MongoDB**, **Redis**, WebSockets, and auth-heavy dashboards. I also use **Java**, **Python**, and **Go** for services, tooling, and performance-sensitive pieces, and **Kafka** when the design calls for event streaming. I build on **Web3** (**Ethereum** & **Solana**). I'm interested in **applied LLMs** — how they connect to real backends, data, and release constraints — as engineering work, not improvised prompt chains. I default to reproducible infra (**AWS**, Docker, **Kubernetes**, CI) and clear boundaries across shared packages.
 
 ### Tech I use
 
