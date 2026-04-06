@@ -33,20 +33,6 @@ I'm a developer working on monorepos and production-style web apps — **Next.js
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
 ![AI & LLMs](https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=flat&logo=openai&logoColor=white)
 
-### Pinned / highlight repos
-
-- [Repo 1](https://github.com/YOUR_GITHUB_USERNAME/repo-1) — short one-line description
-- [Repo 2](https://github.com/YOUR_GITHUB_USERNAME/repo-2) — short one-line description
-
-### GitHub stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
