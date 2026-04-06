@@ -2,7 +2,7 @@
 
 ### Hi, I'm **Vansh** 👋
 
-_Building full-stack & Web3 apps, AI/LLM tooling, and real-time systems._
+_Full-stack & Web3 engineer: production systems, real-time backends, and applied LLMs wired in with the same rigor as the rest of the stack — APIs, data, deployment._
 
 [![X (Twitter)](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/codevoks)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshksingh/)
@@ -13,7 +13,7 @@ _Building full-stack & Web3 apps, AI/LLM tooling, and real-time systems._
 
 ### About
 
-I'm a developer working on monorepos and production-style web apps — **Next.js**, **Turborepo**, **Prisma**, **Redis**, WebSockets, and auth-heavy dashboards. I explore **Web3** on **Ethereum** & **Solana**, and build with **AI** / LLM workflows. I like infra-minded starters (Docker, **Kubernetes**, CI) and clean shared packages.
+I'm a developer working on monorepos and production-style web apps with **React**, **Next.js**, **Turborepo**, **TypeScript**, **Prisma**, **PostgreSQL**, **MongoDB**, **Redis**, WebSockets, and auth-heavy dashboards. I build on **Web3** (**Ethereum** & **Solana**). I'm interested in **applied LLMs** — how they connect to real backends, data, and release constraints — as engineering work, not improvised prompt chains. I default to reproducible infra (**AWS**, Docker, **Kubernetes**, CI) and clear boundaries across shared packages.
 
 ### Tech I use
 
@@ -36,7 +36,7 @@ I'm a developer working on monorepos and production-style web apps — **Next.js
 ![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=flat&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![AI & LLMs](https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=flat&logo=openai&logoColor=white)
+![Applied LLMs](https://img.shields.io/badge/Applied%20LLMs-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
