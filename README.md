@@ -69,15 +69,6 @@ Canvas 2D with drag preview/deletes, syncing ops through a dedicated Node WebSoc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codevoks&show_icons=true&hide_border=true&theme=default&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codevoks&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
-
-</div>
-
----
-
-<div align="center">
-
 **Open to** SDE roles / freelance / collaborations — reach out on
 
 [![X (Twitter)](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/codevoks)
