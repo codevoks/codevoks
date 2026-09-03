@@ -2,7 +2,7 @@
 
 ### Hi, I'm **Vansh** 👋
 
-_Software Development Engineer building production backends, real-time systems, and applied LLM/agent platforms — with the same rigor across APIs, data, and deployment._
+_Software Development Engineer. I build production backends, real-time systems, and applied LLM/agent platforms with the same rigor across APIs, data, and deployment._
 
 [![X (Twitter)](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/codevoks)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshksingh/)
@@ -14,9 +14,9 @@ _Software Development Engineer building production backends, real-time systems, 
 
 ### About
 
-I'm an SDE at **Rootstock**, where I build production finance systems — customer refund workflows, AR/AP/GL postings, and bank reconciliation — with an emphasis on correctness under concurrency (savepoints, rollbacks, idempotent retries). Outside of work I build durable **agentic AI** and **multi-agent** platforms (LangGraph/LangChain, MCP, RAG), real-time systems (WebSockets, Redis Streams, Kafka), and **Web3** apps (Ethereum & Solana). I default to reproducible infra (AWS, Docker, Kubernetes, CI/CD) and typed, tested code end to end.
+I'm an SDE at **Rootstock**, where I build production finance systems: customer refund workflows, AR/AP/GL postings, and bank reconciliation, with an emphasis on correctness under concurrency (savepoints, rollbacks, idempotent retries). Outside of work I build durable **agentic AI** and **multi-agent** platforms (LangGraph/LangChain, MCP, RAG), real-time systems (WebSockets, Redis Streams, Kafka), and **Web3** apps (Ethereum & Solana). I default to reproducible infra (AWS, Docker, Kubernetes, CI/CD) and typed, tested code end to end.
 
-**B.Tech, Mathematics and Computing** — Indian Institute of Technology Delhi (2024)
+**B.Tech, Mathematics and Computing**, Indian Institute of Technology Delhi (2024)
 
 ### Tech I use
 
@@ -50,7 +50,7 @@ I'm an SDE at **Rootstock**, where I build production finance systems — custom
 
 <div align="center">
 
-**Open to** SDE roles / freelance / collaborations — reach out on
+**Open to** SDE roles, freelance, and collaborations. Reach out on
 
 [![X (Twitter)](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/codevoks)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshksingh/)
