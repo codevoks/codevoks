@@ -48,25 +48,6 @@ I'm an SDE at **Rootstock**, where I build production finance systems — custom
 
 ---
 
-### Featured projects
-
-**[Forge AI](https://github.com/codevoks/forge-ai)** — durable agentic AI & multi-agent platform
-Durable execution on LangGraph/LangChain with a Postgres outbox and Redis Streams; bounded tool execution with typed, versioned tools; exact-action human-approval gates before high-risk operations; multi-agent routing with OpenTelemetry tracing.
-
-**[Atlas AI](https://github.com/codevoks/atlas-ai)** — multi-tenant RAG & bounded research platform
-Multi-tenant RAG with durable async ingestion, chunking, and embedding; hybrid semantic + lexical retrieval fused via Reciprocal Rank Fusion with tenant-scoped isolation; grounded generation with citation verification and prompt-injection guardrails.
-
-**[Crypto Exchange](https://github.com/codevoks/Cryptoexchange)** — matching engine
-Event-driven trade flow with Next.js APIs publishing to Redis and matcher workers; in-memory LIMIT/MARKET matching with best-price checks, partial fills, and slippage controls; order book/trade updates via Redis Pub/Sub → WebSockets; Prometheus metrics for monitoring.
-
-**[Zapier Clone](https://github.com/codevoks/zapier-clone)** — workflow automation platform
-Webhook-triggered automation using a Postgres outbox, Kafka, and workers to decouple slow tasks reliably; ordered workflow steps chaining trigger payload and prior step outputs; Zod-validated trigger/action JSON; Zap APIs on Next.js with Prisma transactions.
-
-**[Excalidraw Clone](https://github.com/codevoks/excalidraw-clone)** — real-time collaborative canvas
-Canvas 2D with drag preview/deletes, syncing ops through a dedicated Node WebSocket beside Next.js; join handling with DB snapshot plus server-validated discriminated ops; edit-conflict resolution via shape versions and `baseVersion`.
-
----
-
 <div align="center">
 
 **Open to** SDE roles / freelance / collaborations — reach out on
